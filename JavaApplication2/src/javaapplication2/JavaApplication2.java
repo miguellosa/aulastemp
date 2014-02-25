@@ -17,5 +17,6 @@ public class JavaApplication2 {
         // TODO code application logic here
         
         System.out.println("Hello world");
+        System.out.println("O git é um chato");
     }
 }
